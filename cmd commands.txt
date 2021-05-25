@@ -1,0 +1,42 @@
+		------------------------------------------
+		|BEST COMMAND PROMPTS COMMANDS AND TRICKS|
+		------------------------------------------
+	---------------------------------------------------------
+	|PLEASE SUBSCRIBE TO MY CHANNEL:-https://bit.ly/3hVDMPh |
+	|follow me on GitHub:-https://bit.ly/3vnc6Xm	        |
+	|check out my profile page:-https://bit.ly/3oMFZ0K      |
+	---------------------------------------------------------
+
+#Open cmd - WINDOWS + R, type CMD
+==========================================================
+COMMANDS:-
+
+1.Changing the color of prompt - 
+  help color
+  color [attr] eg:color 2
+
+2.changing the name of prompt -
+  prompt [type anything]
+  help prompt (for special charater)
+  eg:CodeWhite@hacker$G
+
+3.changing the title of prompt -
+  title [type anything]
+  eg: title HAcking in progress
+
+4.~~@ WATCH STAR WARS IN CMD @~~
+  telnet towel.blinkenlights.nl    (by default it is not enabled) to enable it search "Turn windows features on or off" and tick "telnet clint"
+
+5.Hiding a folder with cmd
+  attrib +h +s +r [name of the folder]
+  (folder should be of name)
+  unhide:- attrib -h -s -r [name of the folder]
+
+6.Shortcut key to view previous command
+  F7
+
+7.naming a folder with a reserved name
+  md (name of the folder with reserved name)\
+  eg: md con\, md aux\
+  article of microsoft reserved names:-https://bit.ly/3fE20Lc
+==========================================================
