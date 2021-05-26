@@ -38,5 +38,6 @@ COMMANDS:-
 7.naming a folder with a reserved name
   md (name of the folder with reserved name)\
   eg: md con\, md aux\
+  (delete the folder with this command: \\.\{Path to folder}\aux )
   article of microsoft reserved names:-https://bit.ly/3fE20Lc
 ==========================================================
